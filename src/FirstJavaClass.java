@@ -1,3 +1,3 @@
 public class FirstJavaClass {
-  //This is from remote Repository !
+ //this is my first class
 }
